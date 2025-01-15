@@ -15,7 +15,7 @@ The script processes a video file and removes frames that are very similar to th
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/<your-username>/video-frame-difference.git
+   git clone https://github.com/Abhik4004/Video-Shorts-Creator.git
    ```
 
 2. **Install dependencies:**
@@ -26,15 +26,9 @@ The script processes a video file and removes frames that are very similar to th
    pip install opencv-python
    ```
 
-3. **Run the script:**
-
-   ```bash
-   python frame_difference.py <video_path>
-   ```
-
    Replace `<video_path>` with the path to your video file.
 
-4. **Output:**
+3. **Output:**
 
    The script prints the number of frames identified as having significant changes and potentially writes these frames to a new video file (optional).
 
@@ -72,4 +66,5 @@ Please refer to the contributing guidelines (if available) before submitting pul
 ### License
 
 This project is licensed under [insert your preferred license here] (e.g., MIT License). See the LICENSE file for details.
+
 # Video-Shorts-Creator
